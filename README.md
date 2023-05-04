@@ -12,7 +12,7 @@
 
 **Thanks to :**
 
-- **KANKOSHEV : https://github.com/KANKOSHEV (For the overlay)**
+- **IRAIZO : https://github.com/iraizo/nvidia-overlay-hijack (For the overlay)**
 - **GDPR_Anonymous: https://www.unknowncheats.me/forum/members/2451251.html (For the GetNameById function)**
 - **ReFo0 : https://github.com/ReFo0 (who allowed me to bypass some issues I encountered thanks to his project)**
 
