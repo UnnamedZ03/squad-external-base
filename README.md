@@ -10,11 +10,11 @@
 - [x] Esp Health
 - [x] Esp Line
 
-**Thanks to :
+**Thanks to :**
 
-- KANKOSHEV : https://github.com/KANKOSHEV (For the overlay)
-- GDPR_Anonymous: https://www.unknowncheats.me/forum/members/2451251.html (For the GetNameById function)
-- ReFo0 : https://github.com/ReFo0 (who allowed me to bypass some issues I encountered thanks to his project)**
+- **KANKOSHEV : https://github.com/KANKOSHEV (For the overlay)**
+- **GDPR_Anonymous: https://www.unknowncheats.me/forum/members/2451251.html (For the GetNameById function)**
+- **ReFo0 : https://github.com/ReFo0 (who allowed me to bypass some issues I encountered thanks to his project)**
 
 ![alt text](https://github.com/UnnamedZ03/squad-external-base/blob/main/image%20(1).png)
 
