@@ -3,7 +3,7 @@
 ### UC link : https://www.unknowncheats.me/forum/other-fps-games/523068-squad-simple-external-base.html
 #### Features :
 
-[x] Crosshair
+[ x ] Crosshair
 [x] Team check
 [x] Esp Distance
 [x] Distance Max
